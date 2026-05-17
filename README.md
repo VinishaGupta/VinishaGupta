@@ -7,7 +7,7 @@
 💬 Ask me about **React, Java, DSA, SQL, MongoDB, UI/UX design, and portfolio projects**<br><br>
 ⚡ Fun fact: **I love turning ideas into beautiful UI designs and then bringing them to life with code**
 
-<br>
+
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinisha-gupta-4a2b6634b/)
@@ -18,7 +18,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://vinishagupta.vercel.app/)
 
-<br>
+
 
 # 💻 Tech Stack:
 
