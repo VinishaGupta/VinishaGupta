@@ -21,11 +21,11 @@
 
 # 🏆 HackerRank Badges
 
-<p align="center">
+<p align="left">
   <img src="./assets/java.png" height="120"/>
   <img src="./assets/problem-solving.png" height="120"/>
   <img src="./assets/python.png" height="120"/>
-  <img src="./assets/Screenshot_2026-05-17_232436-removebg-preview.png" height="120"/>
+  <img src="./assets/sql.png" height="120"/>
 </p>
 
 # 📊 GitHub Stats:
