@@ -13,9 +13,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinisha-gupta-4a2b6634b/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinishasgupta@gmail.com)
 
+<br>
+
 # Portfolio
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://vinishagupta.vercel.app/)
+
+<br>
 
 # 💻 Tech Stack:
 
@@ -25,6 +29,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+<br>
 
 ### Programming Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -51,6 +57,8 @@
 [![Figma](https://img.shields.io/badge/Figma_Design-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/2VJBrF17AgkrG3SmD3xwJc/Untitled?node-id=6-10&t=DhjWLdSk0Qtot1tq-1)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
+<br>
+
 # 🏆 HackerRank Badges
 
 <p align="left">
@@ -59,6 +67,8 @@
   <img src="./assets/python.png" height="120"/>
   <img src="./assets/sql.png" height="120"/>
 </p>
+
+<br>
 
 # 📊 GitHub Stats:
 
