@@ -1,5 +1,17 @@
 # 💫 About Me:
-🔭 I’m currently working on **Sticktoon**, a full-stack web project as a Frontend Developer Intern at **BeRAM - TBI**<br><br>👯 I’m looking to collaborate on **React, Next.js, Full-Stack Web Apps, UI/UX Projects, and innovative student startup ideas**<br><br>🤝 I’m looking for help with **scaling full-stack applications, backend architecture, and advanced system design**<br><br>🌱 I’m currently learning **Next.js, TypeScript, Spring Boot, Flutter, and advanced DSA patterns**<br><br>💬 Ask me about **React, Java, DSA, SQL, MongoDB, UI/UX design, and portfolio projects**<br><br>⚡ Fun fact: **I love turning ideas into beautiful UI designs and then bringing them to life with code**
+👩‍💻 Hi, I’m **Vinisha Gupta** — currently pursuing **MCA** at **Ramdeobaba College of Engineering and Management** with a **CGPA of 9.4**.<br><br>
+
+🔭 Interned as a Frontend Developer Intern at **BeRAM - TBI**<br><br>
+
+👯 I’m looking to collaborate on **React, Next.js, Full-Stack Web Apps, UI/UX Projects, and innovative student startup ideas**<br><br>
+
+🤝 I’m looking for help with **scaling full-stack applications, backend architecture, and advanced system design**<br><br>
+
+🌱 I’m currently learning **Next.js, TypeScript, Spring Boot, Flutter, and advanced DSA patterns**<br><br>
+
+💬 Ask me about **React, Java, DSA, SQL, MongoDB, UI/UX design, and portfolio projects**<br><br>
+
+⚡ Fun fact: **I love turning ideas into beautiful UI designs and then bringing them to life with code**
 
 
 
