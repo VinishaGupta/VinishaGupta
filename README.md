@@ -22,9 +22,9 @@
 # 🏆 HackerRank Badges
 
 <p align="center">
-  <img src="./assets/Screenshot_2026-05-17_232419-removebg-preview.png" height="120"/>
-  <img src="./assets/Screenshot_2026-05-17_232424-removebg-preview.png" height="120"/>
-  <img src="./assets/Screenshot_2026-05-17_232431-removebg-preview.png" height="120"/>
+  <img src="./assets/java.png" height="120"/>
+  <img src="./assets/problem-solving.png" height="120"/>
+  <img src="./assets/python.png" height="120"/>
   <img src="./assets/Screenshot_2026-05-17_232436-removebg-preview.png" height="120"/>
 </p>
 
