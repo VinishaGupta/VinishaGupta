@@ -26,7 +26,6 @@
   <img src="./assets/Screenshot_2026-05-17_232424-removebg-preview.png" height="120"/>
   <img src="./assets/Screenshot_2026-05-17_232431-removebg-preview.png" height="120"/>
   <img src="./assets/Screenshot_2026-05-17_232436-removebg-preview.png" height="120"/>
-  <img src="./assets/Screenshot_2026-05-17_232452_-_Copy-removebg-preview.png" height="145"/>
 </p>
 
 # 📊 GitHub Stats:
