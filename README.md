@@ -13,7 +13,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinisha-gupta-4a2b6634b/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinishasgupta@gmail.com)
 
-<br>
 
 # Portfolio
 
