@@ -79,10 +79,6 @@
 [![](https://visitcount.itsvg.in/api?id=VinishaGupta&icon=0&color=5)](https://visitcount.itsvg.in)
 
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=YOUR_USERNAME&theme=tokyonight&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&hide_border=false&layout=compact)
 
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
