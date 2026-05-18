@@ -1,6 +1,6 @@
 # 💫 About Me:
 👩‍💻 Hi, I’m **Vinisha Gupta** — currently pursuing **MCA** at **Ramdeobaba College of Engineering and Management** with a **CGPA of 9.4**.<br><br>
-🔭 Interned as a Frontend Developer Intern at **BeRAM - TBI**<br><br>
+🔭 Interned as a Frontend Developer  at **BeRAM - TBI**<br><br>
 👯 I’m looking to collaborate on **React, Next.js, Full-Stack Web Apps, UI/UX Projects, and innovative student startup ideas**<br><br>
 🤝 I’m looking for help with **scaling full-stack applications, backend architecture, and advanced system design**<br><br>
 🌱 I’m currently learning **Next.js, TypeScript, Spring Boot, Flutter, and advanced DSA patterns**<br><br>
@@ -78,4 +78,11 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=VinishaGupta&icon=0&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=YOUR_USERNAME&theme=tokyonight&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&hide_border=false&layout=compact)
+
+
