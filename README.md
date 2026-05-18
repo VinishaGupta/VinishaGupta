@@ -16,8 +16,9 @@
 
 # Portfolio
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://vinishagupta.vercel.app/)
-
+<a href="https://vinishagupta.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
+</a>
 
 
 # 💻 Tech Stack:
