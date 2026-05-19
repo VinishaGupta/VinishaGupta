@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 👩‍💻 Hi, I’m **Vinisha Gupta** — currently pursuing **MCA** at **Ramdeobaba College of Engineering and Management** with a **CGPA of 9.4**.<br><br>
 🔭 Interned as a Frontend Developer  at **BeRAM - TBI**<br><br>
 👯 I’m looking to collaborate on **React, Next.js, Full-Stack Web Apps, UI/UX Projects, and innovative student startup ideas**<br><br>
