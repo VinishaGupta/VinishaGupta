@@ -1,11 +1,19 @@
 # 💫 About Me:
-👩‍💻 Hi, I’m Vinisha Gupta — currently pursuing MCA at Ramdeobaba College of Engineering and Management with a CGPA of 9.4.<br><br>
-🔭 Frontend Developer Intern @ BeRAM - TBI | Building responsive and user-friendly web experiences with modern frontend technologies.<br><br>
-✨ Passionate about creating clean UI designs and transforming ideas into interactive web applications.<br><br>
-🚀 Exploring scalable full-stack applications with React, Next.js, Spring Boot, Cloud Technologies, and modern development practices.<br><br>
-🌱 Currently learning Cloud Technologies, DevOps fundamentals, and advanced DSA patterns.<br><br>
-🤝 Interested in Full-Stack Development, UI/UX Design, scalable systems, and clean architecture.<br><br>
-⚡ Fun fact: I love turning ideas into beautiful UI designs and bringing them to life through code.
+
+👩‍💻 Hi, I'm **Vinisha Gupta**, an MCA student at **Shri Ramdeobaba College of Engineering and Management, Nagpur**, passionate about building modern web applications and solving real-world problems through technology.
+
+💼 Currently working as a **Software Developer at SmartJi Solutions** and previously worked as a **Frontend Developer Intern at BeRAM Drones - TBI**, where I developed responsive and user-friendly interfaces using modern frontend technologies.
+
+🚀 Experienced in building **full-stack applications** using **React, Next.js, Node.js, Express.js, MongoDB, and SQL**, with hands-on experience in authentication systems, admin dashboards, payment integration, and cloud deployment.
+
+🤖 Built projects involving **AI and Machine Learning integration**, including an AI-powered recipe platform using **PyTorch, TorchVision, and Hugging Face models** for ingredient recognition and recommendations.
+
+🌱 Currently learning **Cloud Technologies, DevOps fundamentals, Spring Boot, and advanced Data Structures & Algorithms** to build scalable and production-ready systems.
+
+🎯 Interested in **Full-Stack Development, UI/UX Design, Cloud Computing, and scalable software architecture**.
+
+⚡ Fun fact: I enjoy transforming ideas into clean, interactive user experiences and bringing them to life through code.
+
 
 
 
