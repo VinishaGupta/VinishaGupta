@@ -31,7 +31,7 @@
 
 # 💻 Tech Stack:
 
-### Frontend
+### Web Technologies 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -47,7 +47,6 @@
 
 ### Core Concepts
 ![DSA](https://img.shields.io/badge/DSA-%230A66C2.svg?style=for-the-badge&logo=codeforces&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![OOPS](https://img.shields.io/badge/OOPS-FF6F00?style=for-the-badge&logo=java&logoColor=white)
 
 ### Databases
